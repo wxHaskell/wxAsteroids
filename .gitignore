@@ -1,0 +1,28 @@
+# Compiled source
+*.o
+*.obj
+*.dll
+*.exe
+*.so
+*.dylib
+*.a
+*.lib
+
+# Haskell Intermediates
+*.hi
+
+# Dist directory
+dist/
+
+# cabal-dev
+cabal-dev/
+
+# generated config files
+config/
+
+# OS Generated files
+.DS_Store*
+Thumbs.db
+
+# Backups created by editors
+*.bak
