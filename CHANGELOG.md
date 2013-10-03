@@ -8,6 +8,9 @@ Change log wxAsteroids
 
 * Set focus to frame, to let Linux builds respond to keyboard
 * Limited ship movement, to keep it in sight, when moving to the right
+* Maintainer set to wxHaskell developer mailing list
+* Source-repository address added to cabal file
+
 
 
 2009-03-07 Version 1.0

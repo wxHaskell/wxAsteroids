@@ -11,12 +11,13 @@ License-file:   LICENSE.txt
 Author:         Daan Leijen
 Maintainer:     wxHaskell developer mailing list <wxhaskell-devel@lists.sourceforge.net>
 Stability:      Stable
-Cabal-Version:  >= 1.2
+Cabal-Version:  >= 1.6
 Build-type:     Simple
 Category:       Game
 Tested-with:    GHC == 6.10.1, GHC == 7.6.3
 Extra-Source-Files:
-                README.txt
+                README.md
+                CHANGELOG.md
 Data-dir:       .
 Data-files:     rock.ico, burning.ico, ship.ico, explode.wav
 
@@ -25,3 +26,7 @@ Executable wxAsteroids
   Main-Is:        Asteroids.lhs
   if os(mingw32)
     GHC-Options: "-optl-mwindows"
+
+Source-repository head
+  type:         git
+  location:     https://github.com/wxHaskell/wxAsteroids
