@@ -4,7 +4,7 @@ Description:
   The Asteroids game, using the wxHaskell GUI, as described in 
   \"wxHaskell, A Portable and Concise GUI Library for Haskell\"
   <http://legacy.cs.uu.nl/daan/download/papers/wxhaskell.pdf>
-Homepage:       http://www.haskell.org/haskellwiki/wxAsteroids
+Homepage:       https://wiki.haskell.org/WxAsteroids
 Version:        1.1
 License:        BSD3
 License-file:   LICENSE.txt
@@ -14,7 +14,7 @@ Stability:      Stable
 Cabal-Version:  >= 1.6
 Build-type:     Simple
 Category:       Game
-Tested-with:    GHC == 6.10.1, GHC == 7.6.3
+Tested-with:    GHC == 6.10.1, GHC == 7.6.3, GHC == 7.10.2
 Extra-Source-Files:
                 README.md
                 CHANGELOG.md

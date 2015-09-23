@@ -8,23 +8,28 @@ Your space ship enters an asteroid belt, try to avoid
 collisions!
 
 wxAsteroids is a game demonstrating the wxHaskell GUI.
-To run the game, you will need wxHaskell, see:                    <br>
+To run the game, you will need wxHaskell, see:
+
   <https://wiki.haskell.org/WxHaskell#Documentation>
 
 If wxHaskell is installed, and you have cabal-install 
 on your system, give the folllowing command to install 
 wxAsteroids:
 
-> cabal install wxAsteroids
+```sh
+cabal install wxAsteroids
+```
 
 Another option is, to download the wxAsteroids tarball from
-[Hackage]( http://hackage.haskell.org/package/wxAsteroids )
+[Hackage](http://hackage.haskell.org/package/wxAsteroids)
 and unpack it; go to the directory with the game code 
 and enter the commands: 
 
-> runhaskell Setup configure
-> runhaskell Setup build
-> runhaskell Setup install
+```sh
+runhaskell Setup configure
+runhaskell Setup build
+runhaskell Setup install
+```
 
 You will get a message about the directory in which the 
 executable is installed; this directory must be in the 
@@ -32,7 +37,9 @@ search path.
 
 Give the following command to start the game:
 
-> wxAsteroids
+```sh
+wxAsteroids
+```
 
 Controls:
 
