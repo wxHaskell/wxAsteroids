@@ -1,10 +1,14 @@
 
 
-Change log wxAsteroids
-======================
+== Change log wxAsteroids ==
 
-2015-09-23 Version 1.1
-----------------------
+=== 2015-09-23 Version 1.1.0.1 ===
+
+* Changed the change log format
+
+
+
+=== 2015-09-23 Version 1.1 ===
 
 * Set focus to frame, to let Linux builds respond to keyboard
 * Limited ship movement, to keep it in sight, when moving to the right
@@ -15,8 +19,7 @@ Change log wxAsteroids
 
 
 
-2009-03-07 Version 1.0
-----------------------
+=== 2009-03-07 Version 1.0 ===
 
 Converted from the document "wxHaskell - A Portable and Concise GUI
 Library for Haskell", updated and cabalized.

@@ -5,7 +5,7 @@ Description:
   \"wxHaskell, A Portable and Concise GUI Library for Haskell\"
   <http://legacy.cs.uu.nl/daan/download/papers/wxhaskell.pdf>
 Homepage:       https://wiki.haskell.org/WxAsteroids
-Version:        1.1
+Version:        1.1.0.1
 License:        BSD3
 License-file:   LICENSE.txt
 Author:         Daan Leijen
