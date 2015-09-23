@@ -3,13 +3,14 @@
 Change log wxAsteroids
 ======================
 
-2013-10-02 Version 1.1
+2015-09-23 Version 1.1
 ----------------------
 
 * Set focus to frame, to let Linux builds respond to keyboard
 * Limited ship movement, to keep it in sight, when moving to the right
 * Maintainer set to wxHaskell developer mailing list
 * Source-repository address added to cabal file
+* Updated links in README.md
 
 
 

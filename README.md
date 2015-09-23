@@ -9,7 +9,7 @@ collisions!
 
 wxAsteroids is a game demonstrating the wxHaskell GUI.
 To run the game, you will need wxHaskell, see:                    <br>
-  <http://www.haskell.org/haskellwiki/WxHaskell#Documentation>
+  <https://wiki.haskell.org/WxHaskell#Documentation>
 
 If wxHaskell is installed, and you have cabal-install 
 on your system, give the folllowing command to install 
@@ -18,7 +18,7 @@ wxAsteroids:
 > cabal install wxAsteroids
 
 Another option is, to download the wxAsteroids tarball from
-[Hackage]( http://hackage.haskell.org/cgi-bin/hackage-scripts/package/wxAsteroids )
+[Hackage]( http://hackage.haskell.org/package/wxAsteroids )
 and unpack it; go to the directory with the game code 
 and enter the commands: 
 
@@ -47,5 +47,5 @@ For a detailed description of wxHaskell and the program, see:
 Haskell](http://legacy.cs.uu.nl/daan/download/papers/wxhaskell.pdf)
 
 Further information about wxHaskell can be found at:
-  <http://www.haskell.org/haskellwiki/WxHaskell>
+  <https://wiki.haskell.org/WxHaskell>
 
