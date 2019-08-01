@@ -13,6 +13,7 @@
 
 # Dist directory
 dist/
+dist-newstyle/
 
 # cabal-dev
 cabal-dev/
@@ -26,3 +27,4 @@ Thumbs.db
 
 # Backups created by editors
 *.bak
+
